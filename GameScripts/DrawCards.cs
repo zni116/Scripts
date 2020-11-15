@@ -62,6 +62,7 @@ public class DrawCards : NetworkBehaviour
     {
         PlayerManager.CmdExecute();
         PlayerManager.CmdGMChangeState("Draw card");
+        // this is just a test 
     }
     [Command]
     public void CmdHighlight()
