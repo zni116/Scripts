@@ -73,6 +73,7 @@ public class DrawCards : NetworkBehaviour
         PlayerManager.IsMyTurn = false;
         UIManager.HighlightTurn();
         // CmdHighlight();
+        // This is test
     }
 
     [ClientRpc]
