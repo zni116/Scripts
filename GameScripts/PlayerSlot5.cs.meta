@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 425e07a58dc424e07bb41fca57a795c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SnorboarAbilities: {instanceID: 0}
+  - WaterEggAbilities: {instanceID: 0}
+  - BarefSharkAbilities: {instanceID: 0}
+  - TurkinAbilities: {instanceID: 0}
+  - DropletsAbilities: {instanceID: 0}
+  - AllSeeingSalamanderAbilities: {instanceID: 0}
+  - AncientSpiritAbilities: {instanceID: 0}
+  - SnakonAbilities: {instanceID: 0}
+  - EarthWormAbilities: {instanceID: 0}
+  - playerSlot5: {fileID: 4793419975676354206, guid: 620a345544a0e4a1ab4b5ed753f6bc56, type: 3}
+  - playerSlot1: {instanceID: 0}
+  - enemySlot1: {fileID: 4793419975676354206, guid: 9827555b3b81d4d239ad77c41ab33cab, type: 3}
+  - enemySlot2: {fileID: 4793419975676354206, guid: e42d805b9780346ac99bef3cd7ceea61, type: 3}
+  - enemySlot3: {fileID: 4793419975676354206, guid: 35b5a4d980e6c400ab458b635b6f916c, type: 3}
+  - enemySlot4: {fileID: 4793419975676354206, guid: ba0f3aef9d2314998977d760cbe8d8f5, type: 3}
+  - enemySlot5: {fileID: 4793419975676354206, guid: 3cb7ff1ce5f5b4df5ade86b887d07b94, type: 3}
+  - UIManager: {fileID: 2253260903670987617, guid: f3bcf49c57f534b43a61b0de56cf959b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

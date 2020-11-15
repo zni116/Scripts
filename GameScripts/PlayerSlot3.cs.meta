@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9e5d55949698c465aa3efb7d78619095
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerSlot3: {instanceID: 0}
+  - playerSlot1: {instanceID: 0}
+  - enemySlot1: {fileID: 4793419975676354206, guid: 9827555b3b81d4d239ad77c41ab33cab, type: 3}
+  - enemySlot2: {fileID: 4793419975676354206, guid: e42d805b9780346ac99bef3cd7ceea61, type: 3}
+  - enemySlot3: {fileID: 4793419975676354206, guid: 35b5a4d980e6c400ab458b635b6f916c, type: 3}
+  - enemySlot4: {fileID: 4793419975676354206, guid: ba0f3aef9d2314998977d760cbe8d8f5, type: 3}
+  - enemySlot5: {fileID: 4793419975676354206, guid: 3cb7ff1ce5f5b4df5ade86b887d07b94, type: 3}
+  - UIManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

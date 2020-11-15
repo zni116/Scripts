@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39074242d9d014e0597942db373e8286
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerManager: {instanceID: 0}
+  - dragDrop: {instanceID: 0}
+  - Snorboar: {instanceID: 0}
+  - playerYard: {fileID: 4777692675985074841, guid: 03e90f0631d9745be8ccb3f73fce9b3a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

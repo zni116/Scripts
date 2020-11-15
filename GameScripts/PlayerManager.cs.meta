@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 422f158aae6bb41cbb5409486b280c21
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AncientSpirit: {fileID: 455356471417674594, guid: 8cc022068f67b46dc98fb3f5a6eee0c7, type: 3}
+  - Snakon: {fileID: 2102997367585419729, guid: 37f3dac631a96439e98c1afaa9ecf666, type: 3}
+  - WaterEgg: {fileID: 7473527581048550783, guid: 569bfd6045c3c49cfb1be0fd55f72789, type: 3}
+  - Turkin: {fileID: 6247106120226269469, guid: 40ba3b90a8d8e4d4dadd7024cebeade2, type: 3}
+  - EarthWorm: {fileID: 8575795390418668604, guid: 9163a11b1771f4d4992653b5924338bf, type: 3}
+  - BarefShark: {fileID: 6927054074231512619, guid: f21a67333381749dcb9444d61766c9fb, type: 3}
+  - Snorboar: {fileID: 2908170081958269646, guid: bbd7e5bf3b2b74bae8e3def5e89efdb9, type: 3}
+  - AllSeeingSalamander: {fileID: 2280513109437740827, guid: f3d88d2cf94dd4b2aa0c34be9d296bc9, type: 3}
+  - Droplets: {fileID: 1972756505904221613, guid: fbbab0b2505a6469cae5af42cc18e158, type: 3}
+  - ProtectiveShield: {fileID: 4965504550537476119, guid: 048d269dee4514ad7bedaf0476d28d09, type: 3}
+  - PlayerArea: {fileID: 4777692675985074841, guid: 11cb3c5047936496092a6e3d2879ee94, type: 3}
+  - EnemyArea: {fileID: 4952774712531863484, guid: af37351315e9d44c897ab32ba05ef927, type: 3}
+  - DropZone: {fileID: 4793419975676354206, guid: df92e7764b9c746e990b0445d5d53a89, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

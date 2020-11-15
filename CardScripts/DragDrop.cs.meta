@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 35d78769730f449ef8942e20d2d4357a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DropZone: {fileID: 4793419975676354206, guid: df92e7764b9c746e990b0445d5d53a89, type: 3}
+  - PlayerManager: {fileID: -8771118309548061724, guid: 49d255dbb7584489f9ac584b879b1ec1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
